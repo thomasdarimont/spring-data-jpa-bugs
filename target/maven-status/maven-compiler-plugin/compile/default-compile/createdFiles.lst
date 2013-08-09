@@ -1,0 +1,15 @@
+org/springframework/data/jpa/bugs/domain/Role_.class
+org/springframework/data/jpa/bugs/domain/Person.class
+org/springframework/data/jpa/example/AnnotationMadnessExample.class
+org/springframework/data/jpa/bugs/domain/Address.class
+org/springframework/data/jpa/bugs/domain/Role.class
+org/springframework/data/jpa/example/AnnotationMadnessExample$JpaParam.class
+org/springframework/data/jpa/bugs/domain/Person_.class
+org/springframework/data/jpa/bugs/domain/Department.class
+org/springframework/data/jpa/bugs/domain/Department_.class
+org/springframework/data/jpa/bugs/domain/EmployeePK.class
+org/springframework/data/jpa/bugs/domain/Address_.class
+org/springframework/data/jpa/bugs/domain/Employee_.class
+org/springframework/data/jpa/bugs/domain/Employee.class
+org/springframework/data/jpa/bugs/domain/User.class
+org/springframework/data/jpa/bugs/domain/User_.class
