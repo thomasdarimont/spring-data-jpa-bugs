@@ -1,6 +1,14 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+target/
+.settings/
+.project
+.classpath
+*.orig
+.springBeans
+.ant-targets-build.xml
+src/ant/.ant-targets-upload-dist.xml
+*.sonar4clipse*
+.DS_Store
+*.iml
+*.ipr
+*.iws
+/.idea/
